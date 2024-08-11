@@ -27,6 +27,7 @@ class DownloadButton extends StatelessWidget {
               colors: [
                 Colors.pink,
                 Colors.blue.shade900,
+                  Colors.purple,
               ]),
         ),
         child: Row(
