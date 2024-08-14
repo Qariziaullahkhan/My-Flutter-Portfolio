@@ -16,7 +16,7 @@ class About extends StatelessWidget {
             const Spacer(),
             Text('Zia Ullah',style: TextStyle(color: Colors.white),),
             const SizedBox(height: defaultPadding/4,),
-            const Text('Flutter Developer & The Student of\nComputer Science',
+            const Text('Flutter Application Developer & The Student of\nComputer Science',
               textAlign: TextAlign.center,
               style: TextStyle(
                   fontWeight: FontWeight.w200,

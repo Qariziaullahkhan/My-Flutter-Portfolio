@@ -13,7 +13,7 @@ class MainView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      drawer: const CustomDrawer(),
+       drawer: const CustomDrawer(),
       body: Center(
         child: Column(
           children: [
